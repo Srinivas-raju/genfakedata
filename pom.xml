@@ -6,7 +6,7 @@
   <name>genfakedata</name>
   <packaging>jar</packaging>
   <url>http://maven.apache.org</url>
-  <distributionManagement>
+ <distributionManagement>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>nexus</id>
@@ -19,7 +19,7 @@
       <name>release</name>
       <url>http://54.175.158.45:8081/nexus/content/repositories/releases/</url>
     </repository>
-  </distributionManagement>
+  </distributionManagement> 
   <description>Student exam results - Fake data generator</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
