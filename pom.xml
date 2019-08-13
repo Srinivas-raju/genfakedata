@@ -20,7 +20,6 @@
       <url>http://54.161.207.69:8081/nexus/content/repositories/releases/</url>
     </repository>
   </distributionManagement> 
-  variable.method();
   <description>Student exam results - Fake data generator</description>
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
